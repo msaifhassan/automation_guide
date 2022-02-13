@@ -57,7 +57,6 @@ Note: I have avoid using definitions. Will try to explain this in my own terms.
 #### Bonus:
 - Single test case should verify only one concept as a good practice
 
------
 
 ## Automated test
 

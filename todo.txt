@@ -8,5 +8,3 @@ How to build?
 Who can build it?
 
 --
-
-Types of tests
