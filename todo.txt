@@ -1,0 +1,12 @@
+What is test framework?
+- tools to use
+
+Why?
+
+How to build?
+
+Who can build it?
+
+--
+
+Types of tests
